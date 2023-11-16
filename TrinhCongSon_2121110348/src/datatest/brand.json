@@ -1,0 +1,66 @@
+{
+    "data":[
+        {
+            "name":"Grand i10", 
+            "image":"http://otohyundai.dichvuwordpress.com/wp-content/uploads/2019/05/1231-1.png",
+            "price":450000,
+            "pricesale":390000   
+        },
+        {
+            "name":"Grand i10 Sedan", 
+            "image":"http://otohyundai.dichvuwordpress.com/wp-content/uploads/2019/05/GRAND-I10-SEDAN1-2.png",
+            "price":450000,
+            "pricesale":390000   
+        },
+        {
+            "name":"Accent", 
+            "image":"http://otohyundai.dichvuwordpress.com/wp-content/uploads/2019/05/accent-2018-600x304.png",
+            "price":450000,
+            "pricesale":390000   
+        },
+        {
+            "name":"I20-Active", 
+            "image":"http://otohyundai.dichvuwordpress.com/wp-content/uploads/2019/05/I20-ACTIVE1-1.png",
+            "price":450000,
+            "pricesale":390000   
+        },
+        {
+            "name":"Elantra", 
+            "image":"http://otohyundai.dichvuwordpress.com/wp-content/uploads/2019/05/elantra-2018.png",
+            "price":450000,
+            "pricesale":390000   
+        },
+        {
+            "name":"Santafe", 
+            "image":"http://otohyundai.dichvuwordpress.com/wp-content/uploads/2019/05/hyundai-santafe-2019-sp-thumb.png",
+            "price":450000,
+            "pricesale":390000   
+        },
+        {
+            "name":"Tucson", 
+            "image":"http://otohyundai.dichvuwordpress.com/wp-content/uploads/2019/05/1b1-1.png",
+            "price":450000,
+            "pricesale":390000   
+        },
+        {
+            "name":"Elantra Sport", 
+            "image":"http://otohyundai.dichvuwordpress.com/wp-content/uploads/2019/05/Hyundai-Elantra-Sport-do-thumbail.png",
+            "price":450000,
+            "pricesale":390000   
+        },
+        {
+            "name":"New Porter 150", 
+            "image":"http://otohyundai.dichvuwordpress.com/wp-content/uploads/2019/05/vip.png",
+            "price":450000,
+            "pricesale":390000   
+        },
+        {
+            "name":"Solati2", 
+            "image":"http://otohyundai.dichvuwordpress.com/wp-content/uploads/2019/05/solati-1.png",
+            "price":450000,
+            "pricesale":390000   
+        }
+        
+        
+    ]
+}

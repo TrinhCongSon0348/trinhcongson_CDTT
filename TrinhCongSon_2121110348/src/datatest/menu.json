@@ -1,0 +1,9 @@
+{
+    "data":[
+        {"name":"Trang Chủ", "link":"/"},
+        {"name":"Sản Phẩm", "link":"san-pham"},
+        {"name":"Giới Thiệu", "link":"gioi-thieu"},
+        {"name":"Danh mục sản phẩm", "link":"danh-muc-san-pham"},
+        {"name":"Liên Hệ", "link":"lien-he"}
+    ]
+}
